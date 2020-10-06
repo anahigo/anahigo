@@ -14,10 +14,12 @@ Formação
 - Arquitetura e Urbanismo | Graduação | Centro Universitário Belas Artes de São Paulo | Dez 2008
 
 O que já aprendi:
+<br />
 <img title="HTML5" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
 <img title="CSS3" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
 <img title="Javascript" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
 <img title="Jest" src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="50" height="50" />
 
 O que estou aprendendo:
+<br />
 <img title="ReactJS" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
