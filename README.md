@@ -1,25 +1,25 @@
-# Ana Higo [![Linkedin Badge](https://img.shields.io/badge/-anahigo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-higo/)](https://www.linkedin.com/in/ana-higo/) [![Gmail Badge](https://img.shields.io/badge/-anacris.higo@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:anacris.higo@gmail.com)](mailto:anacris.higo@gmail.com)
+![Header](https://raw.githubusercontent.com/anahigo/anahigo/master/img/profile-banner.png "Header")
 
-Olá, bem-vindo ao meu repositório.
+# Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-Meu nome é Ana Higo e durante 9 anos trabalhei em grandes escritórios e construtoras na área de arquitetura de interiores e compatibilização de projetos executivos. Em 2015, segui com projetos particulares de arquitetura, ao mesmo tempo em que migrei para a área de empreendedorismo, montando uma cafeteria.
-
-Ao me colocar diante de desafios tão diversos, desenvolvi competências, habilidades e capacidades que me levaram a acreditar que é possível buscar novos caminhos profissionais, e por isso, comecei a estudar desenvolvimento de software na Trybe.
-
-Formação
-- Desenvolvimento de Software | Curso | Trybe | 1500hrs | Jun 2021
-
-- Sustentabilidade das Edificações | Pós-Graduação Lato Sensu | Universidade Presbiteriana Mackenzie | Dez 2011
-
-- Arquitetura e Urbanismo | Graduação | Centro Universitário Belas Artes de São Paulo | Dez 2008
-
-O que já aprendi:
+My name is Ana Higo and I have a degree in Architecture and Urbanism. I worked a long time in the area and I also had a coffee shop.
 <br />
-<img title="HTML5" src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/>
-<img title="CSS3" src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> 
-<img title="Javascript" src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> 
-<img title="Jest" src="https://www.learnstorybook.com/intro-to-storybook/logo-jest.png" alt="jest" width="50" height="50" />
+When faced with such diverse challenges, I developed competences, skills and abilities that led me to believe that it is possible to seek new professional paths, and for that reason, <strong> I started to study software development at Trybe. #goTybe :rocket: </strong>
+</srtrong>
 
-O que estou aprendendo:
-<br />
-<img title="ReactJS" src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="50" height="50"/> 
+# I already learned in the course, but I will always learn more and more :female_superhero:
+<img title="HTML5" src="https://img.shields.io/badge/-html5-lightgrey?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img title="CSS3" src="https://img.shields.io/badge/-css3-lightgrey?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img title="Javascript" src="https://img.shields.io/badge/-javascript-lightgrey?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript" /> <img title="Jest" src="https://img.shields.io/badge/jest-lightgrey?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /> <img title="React"src="https://img.shields.io/badge/-reactJS-lightgrey?style=for-the-badge&logo=reactJS&logoColor=white" alt="React" /> <img title="Redux" src="https://img.shields.io/badge/-redux-lightgrey?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
+
+# I'm currently learning :computer:
+<img title="MySQL" src="https://img.shields.io/badge/-mysql-lightgrey?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+
+# GitHub Stats :bar_chart:
+<a href="https://github.com/anahigo/anahigo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anahigo&hide=shell&theme=vue-dark" style="max-width:100%;" />
+</a>
+<a href="https://github.com/anahigo/anahigo">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=anahigo&theme=vue-dark" style="max-width:100%;" />
+</a>
+
+# Would you like to find me? :mailbox_with_mail:
+[![Linkedin Badge](https://img.shields.io/badge/-anahigo-lightgrey?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ana-higo/)](https://www.linkedin.com/in/ana-higo/) [![Gmail Badge](https://img.shields.io/badge/-anacris.higo@gmail.com-lightgrey?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:anacris.higo@gmail.com)](mailto:anacris.higo@gmail.com)
