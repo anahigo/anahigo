@@ -11,7 +11,7 @@ When faced with such diverse challenges, I developed competences, skills and abi
 <img title="HTML5" src="https://img.shields.io/badge/-html5-lightgrey?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" /> <img title="CSS3" src="https://img.shields.io/badge/-css3-lightgrey?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" /> <img title="Javascript" src="https://img.shields.io/badge/-javascript-lightgrey?style=for-the-badge&logo=javascript&logoColor=white" alt="Javascript" /> <img title="Jest" src="https://img.shields.io/badge/jest-lightgrey?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /> <img title="ReactJS" src="https://img.shields.io/badge/-reactjs-lightgrey?style=for-the-badge&logo=react&logoColor=white" alt="React" /> <img title="Redux" src="https://img.shields.io/badge/-redux-lightgrey?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /> <img title="MySQL" src="https://img.shields.io/badge/-mysql-lightgrey?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" /> <img title="MongoDB" src="https://img.shields.io/badge/-mongodb-lightgrey?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 
 ## I'm currently learning :computer:
-<img title="NodeJS" src="https://img.shields.io/badge/-nodejs-lightgrey?style=for-the-badge&logo=nodejs&logoColor=white" alt="NodeJS" />
+<img title="NodeJS" src="https://img.shields.io/badge/node.js-lightgrey?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
 
 ## GitHub Stats :bar_chart:
 <a href="https://github.com/anahigo/anahigo">
