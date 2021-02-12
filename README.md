@@ -12,7 +12,7 @@ When faced with such diverse challenges, I developed competences, skills and abi
 
 ## I'm currently learning :computer:
 <img title="NodeJS" src="https://img.shields.io/badge/-node.js-lightgrey?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
-<img title="Express" src="https://img.shields.io/badge/-express.js-lightgrey?style=for-the-badge&logo=express.js&logoColor=white" alt="Express" />
+<img title="Express" src="https://img.shields.io/badge/-express-lightgrey?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
 
 ## GitHub Stats :bar_chart:
 <a href="https://github.com/anahigo/anahigo">
