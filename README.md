@@ -4,7 +4,7 @@
 
 My name is Ana Higo and I have a degree in Architecture and Urbanism. I worked a long time in the area and I also had a coffee shop.
 <br />
-When faced with such diverse challenges, I developed competences, skills and abilities that led me to believe that it is possible to seek new professional paths, and for that reason, <strong> I started to study software development at Trybe. #goTybe :rocket: </strong>
+When faced with such diverse challenges, I developed competences, skills and abilities that led me to believe that it is possible to seek new professional paths, and for that reason, <strong> I started to study software development. :rocket: </strong>
 </srtrong>
 
 ## I already learned in the course, but I will always learn more and more :superhero_woman:
