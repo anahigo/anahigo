@@ -2,9 +2,9 @@
 
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-I completely changed my career path in 2020 and studied Software Development at Trybe, where I learned <strong>HTML, CSS, JS, REACT, MYSQL, MONGODB, NODEJS, PYTHON</strong>, and took several supplementary courses to aid in this transition.<br />
-In 2023, I started studying Data Science at the Data Science Academy. I'm currently learning <strong>BIG DATA ANALYTICS WITH R AND MICROSOFT AZURE MACHINE LEARNING</strong>, the course will explore other areas such as <strong>BIG DATA REAL-TIME ANALYTICS WITH PYTHON AND SPARK, DATA ENGINEERING WITH HADOOP AND SPARK, MACHINE LEARNING, BUSINESS ANALYTICS, DATA VISUALIZATION, AND DASHBOARD DESIGN.</strong> <br />
-Prior to this transition, I worked for many years in interior architecture and executive project coordination in prominent firms and construction companies. I also had an opportunity in entrepreneurship, where I set up a coffee shop and gained valuable knowledge in administration, management, and customer experience.<br/>
+I completely changed my career path in 2020 and studied Software Development at Trybe, where I learned <strong>HTML, CSS, JS, REACT, MYSQL, MONGODB, NODEJS, PYTHON</strong>, and took several supplementary courses to aid in this transition.<br /><br />
+In 2023, I started studying Data Science at the Data Science Academy. I'm currently learning <strong>BIG DATA ANALYTICS WITH R AND MICROSOFT AZURE MACHINE LEARNING</strong>, the course will explore other areas such as <strong>BIG DATA REAL-TIME ANALYTICS WITH PYTHON AND SPARK, DATA ENGINEERING WITH HADOOP AND SPARK, MACHINE LEARNING, BUSINESS ANALYTICS, DATA VISUALIZATION, AND DASHBOARD DESIGN.</strong> <br /><br />
+Prior to this transition, I worked for many years in interior architecture and executive project coordination in prominent firms and construction companies. I also had an opportunity in entrepreneurship, where I set up a coffee shop and gained valuable knowledge in administration, management, and customer experience.<br/><br />
 If you have any more questions or need further assistance, feel free to ask. Good luck with your career journey in the field of Data Science! :rocket: 
 
 
