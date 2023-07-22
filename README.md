@@ -1,4 +1,4 @@
-![Header](https://raw.githubusercontent.com/anahigo/anahigo/master/img/profile-banner.png "Header")
+![Header](https://raw.githubusercontent.com/anahigo/anahigo/master/img/banner_git.png "Header")
 
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
