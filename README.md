@@ -4,7 +4,8 @@
 
 I completely changed my career path in 2020 and studied Software Development at Trybe, where I learned <strong>HTML, CSS, JS, REACT, MYSQL, MONGODB, NODEJS, PYTHON</strong>, and took several supplementary courses to aid in this transition.<br /><br />
 In 2023, I started studying Data Science at the Data Science Academy. I'm currently learning <strong>BIG DATA ANALYTICS WITH R AND MICROSOFT AZURE MACHINE LEARNING</strong>, the course will explore other areas such as <strong>BIG DATA REAL-TIME ANALYTICS WITH PYTHON AND SPARK, DATA ENGINEERING WITH HADOOP AND SPARK, MACHINE LEARNING, BUSINESS ANALYTICS, DATA VISUALIZATION, AND DASHBOARD DESIGN.</strong> <br /><br />
-Prior to this transition, I worked for many years in interior architecture and executive project coordination in prominent firms and construction companies. I also had an opportunity in entrepreneurship, where I set up a coffee shop and gained valuable knowledge in administration, management, and customer experience.<br/><br /> :rocket: 
+Prior to this transition, I worked for many years in interior architecture and executive project coordination in prominent firms and construction companies. I also had an opportunity in entrepreneurship, where I set up a coffee shop and gained valuable knowledge in administration, management, and customer experience.<br/><br /> 
+These experiences have enriched me both personally and professionally, providing me with a broad perspective and acquired skills that complement my profile as an ever-evolving professional. I'm excited to move forward in the field of data science and apply what I've learned to solve problems and develop innovative solutions.:rocket: 
 
 
 ## I already learned in the course, but I will always learn more and more :superhero_woman:
