@@ -2,9 +2,10 @@
 
 # Hello World! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="35px">
 
-My name is Ana Higo and I have a degree in Architecture and Urbanism. I worked a long time in the area and I also had a coffee shop.
-<br />
-When faced with such diverse challenges, I developed competences, skills and abilities that led me to believe that it is possible to seek new professional paths and, therefore, I studied and started working with <strong> Software Development</strong> and now I am studying <strong>Data Science.</strong> :rocket: 
+I completely changed my career path in 2020 and studied Software Development at Trybe, where I learned <strong>HTML, CSS, JS, REACT, MYSQL, MONGODB, NODEJS, PYTHON</strong>, and took several supplementary courses to aid in this transition.<br />
+In 2023, I started studying Data Science at the Data Science Academy. I'm currently learning <strong>BIG DATA ANALYTICS WITH R AND MICROSOFT AZURE MACHINE LEARNING</strong>, the course will explore other areas such as <strong>BIG DATA REAL-TIME ANALYTICS WITH PYTHON AND SPARK, DATA ENGINEERING WITH HADOOP AND SPARK, MACHINE LEARNING, BUSINESS ANALYTICS, DATA VISUALIZATION, AND DASHBOARD DESIGN.</strong> <br />
+Prior to this transition, I worked for many years in interior architecture and executive project coordination in prominent firms and construction companies. I also had an opportunity in entrepreneurship, where I set up a coffee shop and gained valuable knowledge in administration, management, and customer experience.<br/>
+If you have any more questions or need further assistance, feel free to ask. Good luck with your career journey in the field of Data Science! :rocket: 
 
 
 ## I already learned in the course, but I will always learn more and more :superhero_woman:
